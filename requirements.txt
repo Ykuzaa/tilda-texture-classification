@@ -1,11 +1,14 @@
+--index-url https://download.pytorch.org/whl/cu126
+--extra-index-url https://pypi.org/simple
+
+torch
+torchvision
+torchaudio
 numpy
 pandas
 matplotlib
 scikit-learn
 pillow
 tqdm
-torch
-torchvision
 jupyter
 ipykernel
-
