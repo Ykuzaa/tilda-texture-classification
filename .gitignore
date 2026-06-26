@@ -2,14 +2,12 @@ data/*
 !data/README.md
 !data/.gitkeep
 
-outputs/*
-!outputs/.gitkeep
-!outputs/checkpoints/
+outputs/checkpoints/*
 !outputs/checkpoints/.gitkeep
-!outputs/figures/
-!outputs/figures/.gitkeep
-!outputs/submissions/
+outputs/submissions/*
 !outputs/submissions/.gitkeep
+outputs/*.npy
+outputs/*.npz
 
 *.pt
 *.pth
@@ -21,4 +19,3 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 venv/
-
