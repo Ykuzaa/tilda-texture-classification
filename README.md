@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/logo.png" alt="Project logo" width="180">
+</p>
+
 # TILDA Texture Classification
 
 Kaggle project for MODIA ML 2026: classify grayscale textile texture images from the TILDA dataset into 8 defect categories.
